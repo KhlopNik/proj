@@ -5,12 +5,11 @@ public class MainApplication {
         System.out.println("---");
         System.out.println("Hello World!");
         System.out.println("10001");
+        doSomesing();
         System.out.println("----");
     }
 
     public static void doSomesing() {
-        System.out.println(0);
-        System.out.println(1);
-        System.out.println(1);
+        System.out.println("Hello World!");
     }
 }
